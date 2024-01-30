@@ -1,1 +1,1 @@
-# Kideny-Renal-Cancer-Classification
+# Kidney-Renal-Cancer-Classification
